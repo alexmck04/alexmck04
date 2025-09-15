@@ -1,4 +1,4 @@
-![Header](img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9bcb6e3d-f311-46be-859e-357277b2586f")
+img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9bcb6e3d-f311-46be-859e-357277b2586f"
 <!--
 **alexmck04/alexmck04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
